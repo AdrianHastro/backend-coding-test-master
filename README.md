@@ -6,4 +6,4 @@
  
  app.delete: delete data
  
- format: /redis/:id
+ format: /rides/:id
